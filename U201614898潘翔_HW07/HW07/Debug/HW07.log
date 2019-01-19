@@ -1,0 +1,9 @@
+﻿  3自设题.cpp
+c:\users\10074\desktop\c语言实验\u201614898潘翔_hw07\3自设题.cpp(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\10074\desktop\c语言实验\u201614898潘翔_hw07\3自设题.cpp(70): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\10074\desktop\c语言实验\u201614898潘翔_hw07\3自设题.cpp(110): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  HW07.vcxproj -> C:\Users\10074\Desktop\C语言实验\U201614898潘翔_HW07\HW07\Debug\HW07.exe
+  HW07.vcxproj -> C:\Users\10074\Desktop\C语言实验\U201614898潘翔_HW07\HW07\Debug\HW07.pdb (Full PDB)

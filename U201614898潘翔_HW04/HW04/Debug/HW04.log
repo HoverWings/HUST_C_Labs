@@ -1,0 +1,7 @@
+﻿  3跟踪调试题.cpp
+c:\users\10074\desktop\c语言实验\u201614898潘翔_hw04\3跟踪调试题.cpp(26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\10074\desktop\c语言实验\u201614898潘翔_hw04\3跟踪调试题.cpp(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\10074\desktop\c语言实验\u201614898潘翔_hw04\3跟踪调试题.cpp(36): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  HW04.vcxproj -> C:\Users\10074\Desktop\C语言实验\U201614898潘翔_HW04\HW04\Debug\HW04.exe
+  HW04.vcxproj -> C:\Users\10074\Desktop\C语言实验\U201614898潘翔_HW04\HW04\Debug\HW04.pdb (Full PDB)

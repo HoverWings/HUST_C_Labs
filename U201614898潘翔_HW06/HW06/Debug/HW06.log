@@ -1,0 +1,5 @@
+﻿  自设题.cpp
+c:\users\10074\desktop\c语言实验\u201614898潘翔_hw06\hw06\自设题.cpp(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  HW06.vcxproj -> C:\Users\10074\Desktop\C语言实验\U201614898潘翔_HW06\HW06\Debug\HW06.exe
+  HW06.vcxproj -> C:\Users\10074\Desktop\C语言实验\U201614898潘翔_HW06\HW06\Debug\HW06.pdb (Full PDB)

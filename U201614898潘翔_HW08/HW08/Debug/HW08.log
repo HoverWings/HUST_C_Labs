@@ -1,0 +1,5 @@
+﻿  yuxin.cpp
+c:\users\10074\desktop\c语言实验\u201614898潘翔_hw08\hw08\yuxin.cpp(6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  HW08.vcxproj -> C:\Users\10074\Desktop\C语言实验\U201614898潘翔_HW08\HW08\Debug\HW08.exe
+  HW08.vcxproj -> C:\Users\10074\Desktop\C语言实验\U201614898潘翔_HW08\HW08\Debug\HW08.pdb (Full PDB)
